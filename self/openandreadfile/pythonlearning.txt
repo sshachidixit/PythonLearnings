@@ -1,0 +1,2 @@
+This is a self learning course .
+Write a program each day.
